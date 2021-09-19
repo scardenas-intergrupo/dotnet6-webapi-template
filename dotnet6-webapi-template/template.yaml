@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 metadata:
   name: dotnet6-webapi-template
-  title: .Net 6 Wep API Service
+  title: .Net 6 Web API Service
   description: Create a simple .Net 6 microservice that provides a Web API
   tags:
     - recommended
